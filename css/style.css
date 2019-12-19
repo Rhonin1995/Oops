@@ -1,0 +1,55 @@
+body {
+	margin: 8%;
+}
+.div1 {
+	display: inline-block;
+}
+h1 {
+	font-size: 30px;
+}
+.button {
+	width: 100px;
+	margin-top: 40px;
+	background-color: black;
+	text-align: center;
+	color: #fff;
+	font-size: 15px;
+	
+}
+.clear {
+	clear: both;
+}
+.img1 {
+	height: 400px;
+	float: right;
+	display: inline-block;
+}
+.section2 {
+	margin-top: 50px;
+	
+}
+img {
+	height: 50px;
+	margin: 2px auto;
+	padding-left: 40px;
+
+
+}
+.box {
+	width: 200px;
+	padding: 40px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: yellow;
+	height: 250px;
+	margin-left: 50px;
+}
+h4 {
+	text-align: center;
+	padding-top: 10px;
+	font-weight: bold;
+}
+p {
+	padding-top: 10px;
+	text-align: center;
+}
